@@ -1,0 +1,8 @@
+streamlit>=1.45
+pandas>=2.2
+numpy>=1.26
+plotly>=5.20
+requests>=2.31
+openpyxl>=3.1
+anthropic>=0.40
+openai>=1.50
